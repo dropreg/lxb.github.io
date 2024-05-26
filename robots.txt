@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lxb.github.io/sitemap.xml
+Sitemap: https://dropreg.github.io/sitemap.xml
